@@ -1,18 +1,16 @@
-Welcome, seeker of hidden paths. 
+# ACM-W CTF Practice Repo
 
+Welcome, code sleuth 🖤
 
+Within these commits lie whispers of forgotten efforts. Not all traces are meaningful—some are noise, others hide the key in plain sight.
 
-The keepers of code have left whispers in these halls. Not every trace matters—some are echoes, others mere footprints in the dust.
+Guidelines for your pursuit:
+- Traverse the timeline carefully; some paths are red herrings.
+- Pay attention to words, their forms, and subtle distinctions—sometimes lowercase matters.
+- Patterns may reveal themselves only if observed with care.
+- Sequence matters—history is a map, not a jumble.
+- The most active club’s imprints might illuminate the final secret.
+- When you think you have the key, the answer will take the form: `club{hidden_word}`.
 
-
-
-Observe carefully, for patterns emerge where you least expect them. Words may hide, messages may speak in riddles, and not all voices are equal.  
-
-
-
-Those who contribute the most may hold sway, but only the attentive will discern which threads lead to the secret.  
-
-
-
-Good luck, and let the journey itself be your guide.
+Notice the nuances, observe the ordinary—sometimes what seems trivial carries the treasure.
 
